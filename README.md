@@ -1,5 +1,5 @@
 # RestApiCats
-# стек технологий: Flyway, Hibernate, Spring Boot, Mockito, Spring MVC, Spring Core, 
+# стек технологий: Flyway, Hibernate, Spring Boot, Mockito, Spring MVC, Spring Core
 Нужно написать сервис по учету котиков и их владельцев.
 Существующая информация о котиках:
 
